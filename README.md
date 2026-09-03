@@ -16,7 +16,7 @@ Next.js, TypeScript, Tailwind CSS
 ### 👨‍💻 Author
 Atif Ali - Full-Stack Developer
 📧 atifdevsolution@gmail.com
-🔗 LinkedIn: linkedin.com/in/muhmmad-atif-ali-developer
+🔗 LinkedIn: https://linkedin.com/in/muhmmad-atif-ali-developer
 
 ### 📦 Run Locally
 npm install
